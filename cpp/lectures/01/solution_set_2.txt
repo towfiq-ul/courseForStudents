@@ -35,6 +35,7 @@ Number of Bytes\n"
 endl;
 return 0;
 }
+
 Exercise 2
 // Usage of escape sequences
 #include <iostream>
@@ -77,6 +78,7 @@ The character ' is not
 allowed in names
 The accuracy of float
 is only 6 digits
+
 Exercise 4
 // Defining and initializing variables
 #include <iostream>
