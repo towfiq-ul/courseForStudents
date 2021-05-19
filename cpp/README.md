@@ -49,4 +49,4 @@
 	* Building blocks, nested if-else, loops, 
 
 
-### Six and Seven:
+### Seven and Eight:
